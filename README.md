@@ -2,4 +2,4 @@ Learning
 ========
 
 Learning GitHub
-Created this project for learing GitHub
+Created this project for learninging GitHub
